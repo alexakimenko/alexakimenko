@@ -1,6 +1,6 @@
 - 👋 Hi, I’m data scientist living in Moscow. 
 - 👀 I’m passionate about programming, data, music and snowboarding.
-- 📫 How to reach me here https://alexakimenko.github.io/about/
+- 📫 You can reach me here https://alexakimenko.github.io/about/
 
 <!---
 alexakimenko/alexakimenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
