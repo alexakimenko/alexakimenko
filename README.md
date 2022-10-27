@@ -1,4 +1,4 @@
-- 👋 Hi, I’m data scientist living in Moscow. 
+- 👋 Hi, I’m data scientist. 
 - 👀 I’m passionate about programming, data, music and snowboarding.
 - 📫 You can reach me here https://alexakimenko.github.io/about/
 
